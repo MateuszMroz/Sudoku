@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sudoku</string>
+    
+    <!-- Menu Screen -->
+    <string name="menu_title">SUDOKU</string>
+    <string name="menu_select_difficulty">Select difficulty level</string>
+    <string name="menu_statistics">Statistics</string>
+    
+    <!-- Difficulty Levels -->
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="difficulty_expert">Expert</string>
+    
+    <!-- Game Screen -->
+    <string name="game_back">Back</string>
+    <string name="game_mistakes">Mistakes: %d</string>
+    <string name="game_notes">Notes</string>
+    <string name="game_hint">Hint</string>
+    <string name="game_clear">Clear</string>
+    
+    <!-- Victory Dialog -->
+    <string name="victory_title">Congratulations!</string>
+    <string name="victory_message">You completed the Sudoku!</string>
+    <string name="victory_time">Time: %s</string>
+    <string name="victory_mistakes">Mistakes: %d</string>
+    <string name="victory_ok">OK</string>
+    
+    <!-- Statistics Screen -->
+    <string name="stats_title">Statistics</string>
+    <string name="stats_general">General</string>
+    <string name="stats_games_played">Games started:</string>
+    <string name="stats_games_completed">Games completed:</string>
+    <string name="stats_total_time">Total time:</string>
+    <string name="stats_current_streak">Current streak:</string>
+    <string name="stats_longest_streak">Longest streak:</string>
+    <string name="stats_completed">Completed:</string>
+    <string name="stats_best_time">Best time:</string>
+    <string name="stats_no_time">—</string>
+</resources>

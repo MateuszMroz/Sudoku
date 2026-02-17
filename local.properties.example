@@ -1,0 +1,14 @@
+## This file must *NOT* be checked into Version Control Systems,
+# as it contains information specific to your local configuration.
+#
+# Location of the Android SDK. This is usually set automatically by Android Studio.
+# You need to create a file named 'local.properties' (without .example) and set this path.
+#
+# For Mac/Linux:
+# sdk.dir=/Users/YOUR_USERNAME/Library/Android/sdk
+#
+# For Windows:
+# sdk.dir=C\:\\Users\\YOUR_USERNAME\\AppData\\Local\\Android\\sdk
+#
+# Replace YOUR_USERNAME with your actual username
+
